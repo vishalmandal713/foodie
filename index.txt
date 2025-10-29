@@ -336,12 +336,13 @@ placeholder = Message
 
 Book a Table
 
-&copy; 2022 codewithsadee All Rights Reserved.
+&copy; 2025 vishalmandal713 All Rights Reserved.
 
 
 
 #---------- BACK TO TOP ----------#
 
 aria-label = Back to top
+
 
 <ion-icon name="chevron-up"></ion-icon>
