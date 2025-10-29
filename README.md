@@ -3,7 +3,6 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/vishalmandal713/foodie)
   ![GitHub stars](https://img.shields.io/github/stars/vishalmandal713/foodie?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/vishalmandal713/foodie?style=social)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/5XnX83goEZo?style=social)](https://youtu.be/5XnX83goEZo)
 
   <br />
   <br />
@@ -47,5 +46,6 @@ git clone https://github.com/vishalmandal713/foodie.git
 ### License
 
 This project is **free to use** and does not contains any license.
+
 
 
